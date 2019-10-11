@@ -1,0 +1,7 @@
+root:$6$4Q8d4I.0$wRwdHdokUvq1oIsjQVncZIixSv3OzROYN8fJOs1BrklEuP2hrMAMLlSJ22EH/Rny4wLo1MmG1kuM6jyH713TR1:0:0:root:/root:/bin/bash
+eve:$6$NbDLTNYg$0dCGAQarSgNRn9yk0u4sKu8lFS6jJJo2pqGpJ8mzmq97T2ppSacoXenK0iFXLeg1p0gTvs64QeVVRSRqt2iQb0:1002:1002:,,,:/home/eve:/bin/bash
+trudy:$6$ZDpxsApk$lM/I604ZN12oVXe4fQCdbAJ1dR/DOiFEktQenfGILwSO5KXxx0vRhyVa8US1W6ZrolrmXNLQwZn2nlE3S/0ot/:1003:1003:,,,:/home/trudy:/bin/bash
+victor:$6$AMtP9.dK$RJlr64buwvj93ksE/XzO3lNBY459rr9N5eKgx5acZ3O89idQmeiIM7UrmdEngAsvaOMJdqpt/.kcbhIPvDDIy/:1004:1004:,,,:/home/victor:/bin/bash
+eugene:$6$PHPHJfYo$JEovZMLc2R9Ff2TMYsINvLBZB/ndD.rqhhJmKWxXlpkREFia.0c6n9RP51I4SfOa4qFcFLeyVaU9p9SE6UwKT1:1005:1005:,,,:/home/eugene:/bin/bash
+greg:$6$PjyPygB2$/e57KHYV.36lS1PaaVIyX3P64FeaV2d97Wgu6bc42Pq5CINA/QkiTG6PYr3fQUoD4lTH0cS7mw0Dr.c7g1es/0:1006:1006:,,,:/home/greg:/bin/bash
+william:$6$PgoOaiC/$BziyLc/VInGya5az5VIcIqlbkyraCjg6vleZOPFpSjUQ0IMnafZHa4ZsYml4v/rWM71QzLDi0dl19s7qYVSgW0:1007:1007:,,,:/home/william:/bin/bash
